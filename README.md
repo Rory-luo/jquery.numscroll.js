@@ -2,7 +2,7 @@
 #### 数字滚动累加动画插件(Digital scroll cumulative animation plug-in)
 使用前先引入jquery  (Introduce jQuery before use)  
 #### 案例展示(Case presentation)
-![查看演示](https://github.com/Rory-luo/jquery.numscroll.js/index.gif)
+![查看演示](https://github.com/Rory-luo/jquery.numscroll.js/blob/main/index.gif)
 #### 下载地址(Download address)
 > https://github.com/Rory-luo/jquery.numscroll.js.git
 #### 快速使用(Quick use)
